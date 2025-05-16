@@ -27,17 +27,13 @@ A modern, minimal, and secure "Buy Me a Coffee" web application built with [Vite
 
 2. **Install dependencies:**
    ```bash
-   npm install
+   bun install
    ```
 3. **Start the development server:**
    ```bash
-   npm run dev
+   bun run dev
    ```
-4. \*\*Open your browser and visit `ht
-5. **Start the development server:**
-   bash
-   npm run dev
-6. **Open your browser and visit `URL_ADDRESS:5173` to see the app in action!**
+4. **Open your browser and visit `http://localhost:5173/` to see the app in action!**
 
 ## Wallet Integration
 
